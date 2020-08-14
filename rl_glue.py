@@ -121,7 +121,7 @@ class RLGlue:
 
         return self.environment.env_message(message)
 
-    def rl_episdoe(self, max_steps_this_episode):
+    def rl_episode(self, max_steps_this_episode):
         '''
         Runs a RLGlue episode
         :param max_steps_this_episode: the maximum steps for the experiment to run in an episode
