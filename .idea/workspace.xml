@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agent.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="agent.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/agent.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="585">
@@ -31,6 +31,16 @@
               <folding>
                 <element signature="e#70#107#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rl_glue.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rl_glue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="152" column="32" lean-forward="false" selection-start-line="152" selection-start-column="32" selection-end-line="152" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +65,7 @@
       <list>
         <option value="$PROJECT_DIR$/cliffworld_env.py" />
         <option value="$PROJECT_DIR$/agent.py" />
+        <option value="$PROJECT_DIR$/rl_glue.py" />
       </list>
     </option>
   </component>
@@ -179,6 +190,14 @@
           <folding>
             <element signature="e#70#107#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rl_glue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="152" column="32" lean-forward="false" selection-start-line="152" selection-start-column="32" selection-end-line="152" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
